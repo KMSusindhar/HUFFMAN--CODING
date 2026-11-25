@@ -27,7 +27,8 @@ print the characters and its huffmancode.
  
 ## Program:
 
-``` Python
+Python
+``` 
 
 # Get the input string
 input_string = "Susindhar K M"
